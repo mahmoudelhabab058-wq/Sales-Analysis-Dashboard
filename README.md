@@ -11,6 +11,8 @@ Interactive Sales Analysis Dashboard built using Power BI, Power Query, DAX, and
 - Power BI
 - Power Query
 - DAX
+- Measures
+- Data Visualization
 - Data Modeling
 
 ## Key KPIs
