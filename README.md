@@ -5,7 +5,7 @@ Interactive Sales Analysis Dashboard built using Power BI, Power Query, DAX, and
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Tools Used
 - Power BI
